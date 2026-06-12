@@ -71,15 +71,6 @@ This repository contains Java programs for practicing programming concepts, prob
 - Recursive Factorial
 - Recursion Basics
 
-## Purpose
-
-This repository is designed for:
-- Java beginners
-- College students
-- Placement preparation
-- Coding interview practice
-- Learning problem-solving skills
-
 ## Language Used
 
 - Java
